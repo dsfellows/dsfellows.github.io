@@ -4,7 +4,13 @@ layout: default
 
 # Introduction
 
+<img src="img/crop-amani.jpg" align="right" height="125" width="125" />
+
 > "I've learned how to build websites, how they work, and how to think about data. I think this program is extremely necessary on campus and can be a great way to springboard technological interest and access for students who wouldn't otherwise receive it." - Amani
+
+<br><br><br>
+
+<img src="img/crop-andres.jpeg" align="right" height="125" width="125" />
 
 > "This Fellowship was an incredibly opportunity that, if anything, has made me even more excited to learn about new tools and software as well as embark on new digital projects!" - Andres
 
@@ -26,13 +32,11 @@ The Fellows have gotten a firsthand look at how these processes can unfold as th
 
 Our cohort of eight students came from a wide range of disciplines--urban studies, English, anthropology, computer science, and more--and included sophomores, juniors, and seniors. Some had extensive experience working on digital projects; others were drawn to the program as a first introduction to digital scholarship.
 
-[individual headshots? group photo? bios? Yumi/Alice/Kirara bios?]
-
 ![alt text](/img/group-photo-2.jpg)
 
-*The Fellows and program coordinators.*
+*The Fellows and program coordinators: Amani Bey '19, Abigail McGuckin '19, Yumi Dineen Shiroma (post-bac), Nick Joyner '19, Andres De los Rios '17, Kirara Sato (post-bac), Laurie Allen (Assistant Director for Digital Scholarship). Not pictured: Karis Stephen '18, Ying Luo '19, David Kinnaird '18, and Maia Effah Kaufmann '19.*
 
-[Read the Fellows' bios here.](http://upenndigitalscholarship.org/dsfellows16/cohort2016/)
+[Read more about our cohort here here.](http://upenndigitalscholarship.org/dsfellows16/cohort2016/)
 
 
 
@@ -115,6 +119,8 @@ Building on the existing Monument Lab data set, the Fellows added categories not
 
 From there, we switched gears to consider how best to work with messy data sets--like the one we'd just created. The Fellows experimented with ways of analyzing and cleaning existing Monument Lab data using [OpenRefine](http://openrefine.org/), an open-source tool designed to make work with large, complex data sets easier.
 
+<img src="img/crop-abby.jpeg" align="right" height="125" width="125" />
+
 > "The session on OpenRefine was particularly impactful. Before [the DS Fellows program], if I downloaded relevant data that was arranged messily, I would not have known how to sort through it. However, the session on OpenRefine taught me how to make sense of such data using this new tool." - Abby
 
 
@@ -131,6 +137,8 @@ Nick Joyner used what he learned in this session to create a final project for a
 ![alt text](/img/week-7-nick-project.png)
 
 [See the interactive version of Nick's project here.](https://njoyn.carto.com/builder/a7b6bdb0-26d8-11e7-b6ad-0ee66e2c9693/embed)
+
+<img src="img/crop-abby.jpeg" align="right" height="125" width="125" />
 
 > "The program has completely redefined what I thought I understood as digital scholarship. I did not realize the great digitizations of written data, much less the various tools to use that information in different ways. As an urban studies major, I have taken away invaluable information. I will absolutely use my knowledge in Mapbox from DS in my future classes and research." - Abby
 
@@ -166,6 +174,8 @@ Next, the Fellows experimented with topic modeling, which uses Bayesian statisti
 ![alt text](/img/week-9-topics.png)
 
 *One model of the "topics" that made up the Philadelphia corpus.*
+
+<img src="img/crop-andres.jpeg" align="right" height="125" width="125" />
 
 > "I really enjoyed the session on topic modeling and data visualizations, especially since they are both tools that, in my opinion, could help bridge the current gap between specialized scholarship and general audiences (be it in books, journals, museums, or the like)." - Andres
 
@@ -209,15 +219,23 @@ Laurie Allen, Assistant Director for Digital Scholarship at the libraries and on
 
 Following this session, Abigail McGuckin reflected on her new understanding of the complexities of digital archiving and preservation:
 
+<img src="img/crop-abby.jpeg" align="right" height="125" width="125" />
+
 > "I've learned that the way we currently understand data is vastly different from the times of solely written texts. In this new age, preservation of current data and recontexualization/new analyses of old data using technology are novel ways to make sense of the world. This program taught me to really be conscious about what preservation [means], especially in light of the data refuge project."
 
 
 
 # What the Fellows Learned
 
+<img src="img/crop-amani.jpg" align="right" height="125" width="125" />
+
 > "The DS Fellows program has allowed me to understand how much more technology can influence and assist in my research.  I do a lot of primary source resource,  so I thought tech was the antithesis to my  work, but that's not true. I think in terms of having a metacritical approach to data preservation is something I've also gained." - Amani
 
+<img src="img/crop-nick.jpg" align="right" height="125" width="125" />
+
 > "The program has provided me with a useful sampling of many digital methods, some of which are directly applicable to work I'm doing in school and others that were added bonuses. I've gained a more well-rounded understanding of where digital tools meet academic methods, and my only complaint is that we only had time to do overviews of certain topics." - Nick
+
+<img src="img/crop-andres.jpeg" align="right" height="125" width="125" />
 
 > "The DS Fellows program gave me a wonderful perspective of how digital scholarship is steadily making its way into the academic scene of Penn and American education. It was also very useful to get a solid introduction to digital concepts and tools that will certainly show up once more in my future studies with Information Sciences." - Andres
 
