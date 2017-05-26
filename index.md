@@ -10,9 +10,9 @@ layout: default
 
 <br><br><br>
 
-<img src="img/crop-andres.jpeg" align="right" height="125" width="125" />
+<img src="img/crop-Andrés.jpeg" align="right" height="125" width="125" />
 
-> "This Fellowship was an incredibly opportunity that, if anything, has made me even more excited to learn about new tools and software as well as embark on new digital projects!" - Andres
+> "This Fellowship was an incredibly opportunity that, if anything, has made me even more excited to learn about new tools and software as well as embark on new digital projects!" - Andrés
 
 
 
@@ -34,7 +34,7 @@ Our cohort of eight students came from a wide range of disciplines--urban studie
 
 ![alt text](/img/group-photo-2.jpg)
 
-*The Fellows and program coordinators: Amani Bey '19, Abigail McGuckin '19, Yumi Dineen Shiroma (post-bac), Nick Joyner '19, Andres De los Rios '17, Kirara Sato (post-bac), Laurie Allen (Assistant Director for Digital Scholarship). Not pictured: Karis Stephen '18, Ying Luo '19, David Kinnaird '18, and Maia Effah Kaufmann '19.*
+*The Fellows and program coordinators: Amani Bey '19, Abigail McGuckin '19, Yumi Dineen Shiroma (post-bac), Nick Joyner '19, Andrés De los Rios '17, Kirara Sato (post-bac), Laurie Allen (Assistant Director for Digital Scholarship). Not pictured: Karis Stephen '18, Ying Luo '19, David Kinnaird '18, and Maia Effah Kaufmann '19.*
 
 [Read more about our cohort here here.](http://upenndigitalscholarship.org/dsfellows16/cohort2016/)
 
@@ -96,11 +96,11 @@ During this session, the Fellows talked through some of the (dis)continuities be
 
 The Fellows explored some basics of Git, a version control system optimized for tracking changes to code in collaborative digital projects. From there, we dived into Jekyll, a static site generator that can build minimal, fast-loading websites from simple HTML and CSS files.
 
-Andres De los Rios went on to use Jekyll to build a professional website, hosting the files on Github Pages as we'd practiced during the session.
+Andrés De los Rios went on to use Jekyll to build a professional website, hosting the files on Github Pages as we'd practiced during the session.
 
-![alt text](/img/week-5-andres-site.png)
+![alt text](/img/week-5-Andrés-site.png)
 
-[View Andres's website in full here.](https://afrivers.github.io/website/)
+[View Andrés's website in full here.](https://afrivers.github.io/website/)
 
 
 
@@ -157,7 +157,7 @@ Finally, each group presented a proposal for how that site might be represented 
 
 ![alt text](/img/week-8-brainstorm.jpg)
 
-*Brainstorming notes: Ying and Andres on Rittenhouse Square; Nick and Karis on Malcolm X Park; and Abby and Maia on Norris Park.*
+*Brainstorming notes: Ying and Andrés on Rittenhouse Square; Nick and Karis on Malcolm X Park; and Abby and Maia on Norris Park.*
 
 
 
@@ -175,9 +175,9 @@ Next, the Fellows experimented with topic modeling, which uses Bayesian statisti
 
 *One model of the "topics" that made up the Philadelphia corpus.*
 
-<img src="img/crop-andres.jpeg" align="right" height="125" width="125" />
+<img src="img/crop-Andrés.jpeg" align="right" height="125" width="125" />
 
-> "I really enjoyed the session on topic modeling and data visualizations, especially since they are both tools that, in my opinion, could help bridge the current gap between specialized scholarship and general audiences (be it in books, journals, museums, or the like)." - Andres
+> "I really enjoyed the session on topic modeling and data visualizations, especially since they are both tools that, in my opinion, could help bridge the current gap between specialized scholarship and general audiences (be it in books, journals, museums, or the like)." - Andrés
 
 
 
@@ -235,15 +235,15 @@ Following this session, Abigail McGuckin reflected on her new understanding of t
 
 > "The program has provided me with a useful sampling of many digital methods, some of which are directly applicable to work I'm doing in school and others that were added bonuses. I've gained a more well-rounded understanding of where digital tools meet academic methods, and my only complaint is that we only had time to do overviews of certain topics." - Nick
 
-<img src="img/crop-andres.jpeg" align="right" height="125" width="125" />
+<img src="img/crop-Andrés.jpeg" align="right" height="125" width="125" />
 
-> "The DS Fellows program gave me a wonderful perspective of how digital scholarship is steadily making its way into the academic scene of Penn and American education. It was also very useful to get a solid introduction to digital concepts and tools that will certainly show up once more in my future studies with Information Sciences." - Andres
+> "The DS Fellows program gave me a wonderful perspective of how digital scholarship is steadily making its way into the academic scene of Penn and American education. It was also very useful to get a solid introduction to digital concepts and tools that will certainly show up once more in my future studies with Information Sciences." - Andrés
 
 
 
 # Looking Forward
 
-Three of the Fellows, Andres, Ying, and Maia, will be staying on for phase two of the DS Fellows program: a summer internship that gives students the opportunity to create ways of interpreting and representing Monument Lab data.
+Three of the Fellows, Andrés, Ying, and Maia, will be staying on for phase two of the DS Fellows program: a summer internship that gives students the opportunity to create ways of interpreting and representing Monument Lab data.
 
 Along with four new fellows, these students will develop visualizations and tools for use in Monument Lab 2017, which will bring a diverse group of 21 artists to create temporary monuments in Philadelphia, and continue to solicit speculative monument proposals from the public.
 
@@ -256,4 +256,4 @@ need images for:
 + 10: Ying's tutorial (plus a quote?) - email Ying
 + 11: Alice is asking Robert for a visual related to the tutorial
 
-figure out how to do bios etc
+fix download links
