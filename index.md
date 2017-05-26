@@ -10,7 +10,7 @@ layout: default
 
 <br><br><br>
 
-<img src="img/crop-Andrés.jpeg" align="right" height="125" width="125" />
+<img src="img/crop-andres.jpeg" align="right" height="125" width="125" />
 
 > "This Fellowship was an incredibly opportunity that, if anything, has made me even more excited to learn about new tools and software as well as embark on new digital projects!" - Andrés
 
@@ -98,7 +98,7 @@ The Fellows explored some basics of Git, a version control system optimized for 
 
 Andrés De los Rios went on to use Jekyll to build a professional website, hosting the files on Github Pages as we'd practiced during the session.
 
-![alt text](/img/week-5-Andrés-site.png)
+![alt text](/img/week-5-andres-site.png)
 
 [View Andrés's website in full here.](https://afrivers.github.io/website/)
 
@@ -175,7 +175,7 @@ Next, the Fellows experimented with topic modeling, which uses Bayesian statisti
 
 *One model of the "topics" that made up the Philadelphia corpus.*
 
-<img src="img/crop-Andrés.jpeg" align="right" height="125" width="125" />
+<img src="img/crop-andres.jpeg" align="right" height="125" width="125" />
 
 > "I really enjoyed the session on topic modeling and data visualizations, especially since they are both tools that, in my opinion, could help bridge the current gap between specialized scholarship and general audiences (be it in books, journals, museums, or the like)." - Andrés
 
@@ -235,7 +235,7 @@ Following this session, Abigail McGuckin reflected on her new understanding of t
 
 > "The program has provided me with a useful sampling of many digital methods, some of which are directly applicable to work I'm doing in school and others that were added bonuses. I've gained a more well-rounded understanding of where digital tools meet academic methods, and my only complaint is that we only had time to do overviews of certain topics." - Nick
 
-<img src="img/crop-Andrés.jpeg" align="right" height="125" width="125" />
+<img src="img/crop-andres.jpeg" align="right" height="125" width="125" />
 
 > "The DS Fellows program gave me a wonderful perspective of how digital scholarship is steadily making its way into the academic scene of Penn and American education. It was also very useful to get a solid introduction to digital concepts and tools that will certainly show up once more in my future studies with Information Sciences." - Andrés
 
