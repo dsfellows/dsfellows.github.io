@@ -255,5 +255,3 @@ need images for:
 + 12: html5up sites (emailed Karis, Abby, Nick and Amani about this)
 + 10: Ying's tutorial (plus a quote?) - email Ying
 + 11: Alice is asking Robert for a visual related to the tutorial
-
-fix download links
