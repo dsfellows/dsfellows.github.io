@@ -1,5 +1,32 @@
-title: Digital Scholarship Fellows
-description: "Progress and Projects: 2016-17"
-show_downloads: true
-google_analytics:
-theme:
+# site settings
+title: Digital Scholarship Fellows 2016-2017
+subtitle:
+email: youremailaddress@gmail.com
+description: A one year fellowship for Penn undergraduates supported by a gift to the Penn Libraries
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author:
+street_address: 3420 Walnut St
+city: Philadelphia
+state: PA
+zip_code: 19104
+country: United States of America
+phone:
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/upenndigitalscholarship
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
